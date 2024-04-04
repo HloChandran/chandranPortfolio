@@ -10,7 +10,8 @@ void configureApp() {
 }
 
 void main() {
+  
   WidgetsFlutterBinding.ensureInitialized();
-  // usePathUrlStrategy();
+  // usePathUrcxcxcxclStrategy();
   runApp(const ProviderScope(child: MyApp()));
 }
